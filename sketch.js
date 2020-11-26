@@ -2,7 +2,7 @@ var x = 0;
 var speed = 3;
 
 function setup() {
-  resizeCanvas(Width, Height);
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
